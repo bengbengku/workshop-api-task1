@@ -1,3 +1,7 @@
+# Output Task
+
+![task_1_workshop](https://user-images.githubusercontent.com/42617505/227189012-726650a1-6012-4b9f-9ad7-e5be6651309f.jpg)
+
 # Express API Starter
 
 ## Overview
